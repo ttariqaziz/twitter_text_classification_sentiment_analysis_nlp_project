@@ -1,4 +1,4 @@
-# twitter_text_classification
+# twitter_text_classification_nlp
 
 ## Overview:
 The COVID-19 pandemic has had a significant impact on society, and the need for accurate and
