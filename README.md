@@ -33,7 +33,7 @@ recall, and F1 score.
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Neutral-Tweets-Wordcloud.png">
 ## Model Accuracy Comparison
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Model%20Comparison%20Table.png">
-## Confusion Matrices
 
+## Confusion Matrices
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/RF%20Confusion%20Matrix.png">
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/NB%20Confusion%20Matrix.png">
