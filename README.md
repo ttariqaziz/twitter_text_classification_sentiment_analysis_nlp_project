@@ -34,5 +34,6 @@ recall, and F1 score.
 ## Model Accuracy Comparison
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Model%20Comparison%20Table.png">
 ## Confusion Matrices
+
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/RF%20Confusion%20Matrix.png">
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/NB%20Confusion%20Matrix.png">
