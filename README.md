@@ -38,3 +38,4 @@ recall, and F1 score.
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/RF%20Confusion%20Matrix.png">
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/NB%20Confusion%20Matrix.png">
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/SGDC%20Confusion%20Matrix.png">
+
