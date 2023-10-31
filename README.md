@@ -3,9 +3,7 @@
 The COVID-19 pandemic has had a significant impact on society, and the need for accurate and
 reliable information has never been greater. In this project, we propose to use natural language
 processing (NLP) techniques to classify text data related to COVID-19.
-Specifically, we will use the dataset from this Kaggle link,
-
-https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification
+This project will use [open-source data](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification) data of the year 2020 from Twitter.
 
 which includes thousands of text snippets from various sources such as news articles, social
 media posts, and government documents.
