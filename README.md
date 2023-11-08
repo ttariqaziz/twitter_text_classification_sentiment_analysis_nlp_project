@@ -16,7 +16,7 @@ NLP techniques such as tokenization, stemming, and vectorization to prepare the 
 modeling. We will then use machine learning algorithms such as logistic regression, naive
 Bayes, Random Forest, and SVM to train the model.
 ## Evaluation
-The performance of the model will be evaluated using metrics such as accuracy, precision,
+The performance of the model will be evaluated using metrics such as accuracy, precision, F1 score
 recall, and F1 score.
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Pie%20Chart%20of%20Sentiments.png">
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Top%2010%20Tweet%20Locations.png">
