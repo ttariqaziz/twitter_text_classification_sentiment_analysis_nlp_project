@@ -18,7 +18,44 @@ Bayes, Random Forest, and SVM to train the model.
 ## Evaluation
 The performance of the model will be evaluated using metrics such as accuracy, precision, recall and F1 score.
 ## Project Structure
-
+```
+twitter_text_classification_sentiment_analysis_nlp_project
+├─ Data
+│  ├─ Corona_NLP_test.csv
+│  └─ Corona_NLP_train.csv
+├─ Data_Wrangling_Exploratory_Data_Analysis.ipynb
+├─ New_Data_Wrangling_Exploratory_Data_Analysis.ipynb
+├─ Notebook
+│  ├─ Capstone_2_Data_Modeling.ipynb
+│  ├─ Capstone_2_Data_Modeling_(2).ipynb
+│  └─ Data_Modeling_Final_Version.ipynb
+├─ Plots
+│  ├─ Hashtags.png
+│  ├─ Model Comparison Table.png
+│  ├─ NB Confusion Matrix.png
+│  ├─ Negative-Tweets-Wordcloud.png
+│  ├─ Neutral-Tweets-Wordcloud.png
+│  ├─ No of Characters in Tweets.png
+│  ├─ No of Words in a Tweet.png
+│  ├─ Pie Chart of Sentiments.png
+│  ├─ Positive-Tweets-Wordcloud.png
+│  ├─ RF Confusion Matrix.png
+│  ├─ SGDC Confusion Matrix.png
+│  ├─ Test Missing Values.png
+│  ├─ Test Sentiment Analysis-1.png
+│  ├─ Test Sentiment Analysis.png
+│  ├─ Top 10 Tweet Locations.png
+│  ├─ Train Missing Values.png
+│  ├─ Train Sentiment Analysis-1.png
+│  ├─ Train Sentiment Analysis.png
+│  ├─ Train Test Comparison.png
+│  ├─ Tweets Timeline-1.png
+│  └─ Tweets Timeline.png
+├─ README.md
+├─ Twitter NLP Text Capstone # 2 Presentation.pdf
+├─ Twitter NLP Text Capstone # 2 Report .pdf
+└─ Updated_Data_Wrangling_Exploratory_Data_Analysis.ipynb
+```
 
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Pie%20Chart%20of%20Sentiments.png">
 <img src = "https://github.com/ttariqaziz/twitter_text_classification/blob/main/Plots/Top%2010%20Tweet%20Locations.png">
